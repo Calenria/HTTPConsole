@@ -6,15 +6,11 @@
 # netbeans
 /nbproject
 
-#IntelliJ
-/.idea
-/*.iml
-
 # various other potential build files
 /bin
 /dist
 /manifest.mf
 
 # Mac filesystem dust
-.DS_Store
+.DS_Storetarget
 /target
